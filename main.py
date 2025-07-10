@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # === API KEYS ===
 GEMINI_API_KEY = "AIzaSyCotKOw1sU0KavJxqZw07_3nExEkOSrK9E"
-TELEGRAM_BOT_TOKEN = "7520921169:AAEjob5FlKcI5lWY7gX9e9Vn5J2kY66m6hA"
+TELEGRAM_BOT_TOKEN = "7520921169:AAG_pIFholC0ujUlNlOFCnKNYtvmOF2i7IE"
 
 # === Logging ===
 logging.basicConfig(
